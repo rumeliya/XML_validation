@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWMET xmlns:wfd="http://dd.eionet.europa.eu/schemas/WFD2016/wfdcommon" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://dd.eionet.europa.eu/schemas/WFD2016" xsi:schemaLocation="http://dd.eionet.europa.eu/schemas/WFD2016 http://dd.eionet.europa.eu/schemas/WFD2016/GWMET_2016.xsd" creationDate="2016-03-07" creator="bddr" description="" email="bddr@bddr.org" fileName="GWMET" generatedBy="bddr" language="bul">
+	<countryCode>BG</countryCode>
+	<euRBDCode>BG1000</euRBDCode>
+	<GWMethodologies>
+		<gwCharacterisationReference>
+			<wfd:subject>Подход за характеризиране на подземни водни тела</wfd:subject>
+			<wfd:documentName>Подход за характеризиране на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>първоначално х-не,стр.1-14</wfd:bookmark>
+			<wfd:fileName>GW_characterization</wfd:fileName>
+		</gwCharacterisationReference>
+		<gwCharacterisationReference>
+			<wfd:subject>Подход за характеризиране на подземни водни тела</wfd:subject>
+			<wfd:documentName>Подход за характеризиране на подземните водни тела</wfd:documentName>
+			<wfd:bookmark> допълнително х-не  стр.15-31</wfd:bookmark>
+			<wfd:fileName>GW_characterization</wfd:fileName>
+		</gwCharacterisationReference>
+		<gwCharacterisationReference>
+			<wfd:subject>Подход за характеризиране на подземни водни тела</wfd:subject>
+			<wfd:documentName>Подход за характеризиране на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Типология на подземните водни тела стр.31-40</wfd:bookmark>
+			<wfd:fileName>GW_characterization</wfd:fileName>
+		</gwCharacterisationReference>
+		<diminutionDamage>No</diminutionDamage>
+		<methodCriterionExtentExceedance>Method 2: Proportion (%) of the total area of the groundwater body represented by monitoring sites exceeding a groundwater quality standard or threshold value compared to the total area of the whole groundwater body.</methodCriterionExtentExceedance>
+		<proportionExceedanceAllowed>20</proportionExceedanceAllowed>
+		<impactsGWAbstractionBalance>Yes</impactsGWAbstractionBalance>
+		<impactsGWAbstractionSWObjective>No</impactsGWAbstractionSWObjective>
+		<impactsGWAbstractionSWDiminutionStatus>No</impactsGWAbstractionSWDiminutionStatus>
+		<impactsGWAbstractionDamageGWDE>No</impactsGWAbstractionDamageGWDE>
+		<impactsGWAbstractionSalineIntrusion>No</impactsGWAbstractionSalineIntrusion>
+		<availableGroundwaterResource>Yes</availableGroundwaterResource>
+		<needsTerrestrialEcosystems>Yes</needsTerrestrialEcosystems>
+		<balanceRechargeAbstraction>Method 1: A comparison of annual average groundwater abstraction against 'available groundwater resource' has been reported to be calculated for every groundwater body</balanceRechargeAbstraction>
+		<trendAssessmentPerformed>Yes</trendAssessmentPerformed>
+		<trendAssessmentMethodology>Yes</trendAssessmentMethodology>
+		<timeSeries>2006--2014</timeSeries>
+		<statisticalElements>Confidence intervals</statisticalElements>
+		<additionalTrendAssessment>No</additionalTrendAssessment>
+		<startingPointTrendReversal>All starting points for trend reversal start from 75 % of the groundwater quality standards and threshold values.</startingPointTrendReversal>
+		<percentageStartingPoint>75</percentageStartingPoint>
+		<trendReversalMethodology>Yes</trendReversalMethodology>
+		<thresholdValueElementProtectionEcosystem>No</thresholdValueElementProtectionEcosystem>
+		<thresholdValueElementProtectionGWDE>No</thresholdValueElementProtectionGWDE>
+		<thresholdValueElementProtectionUses>Yes</thresholdValueElementProtectionUses>
+		<thresholdValueElementSalineIntrusion>No</thresholdValueElementSalineIntrusion>
+		<thresholdValuesBackgroundLevels>Background levels have been considered in the threshold value establishment</thresholdValuesBackgroundLevels>
+		<transboundaryGWBPresent>No</transboundaryGWBPresent>
+		<transboundaryThresholdValues>No</transboundaryThresholdValues>
+		<gwMethodologiesChemicalClassificationReference>
+			<wfd:subject>Подход за оценка на химичното състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на химичното състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Определяне на праговите стойности стр.1-6</wfd:bookmark>
+			<wfd:fileName>GW_chemical_status</wfd:fileName>
+		</gwMethodologiesChemicalClassificationReference>
+		<gwMethodologiesChemicalClassificationReference>
+			<wfd:subject>Подход за оценка на химичното състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на химичното състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Оценка на химичното състояние стр.6-20</wfd:bookmark>
+			<wfd:fileName>GW_chemical_status</wfd:fileName>
+		</gwMethodologiesChemicalClassificationReference>
+		<gwMethodologiesChemicalClassificationReference>
+			<wfd:subject>Подход за оценка на химичното състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на химичното състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Оценка на тенденциите (стр.20-23)</wfd:bookmark>
+			<wfd:fileName>GW_chemical_status</wfd:fileName>
+		</gwMethodologiesChemicalClassificationReference>
+		<gwMethodologiesQuantitativeClassificationReference>
+			<wfd:subject>Подход за оценка на количественото състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на количественото състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Подход</wfd:bookmark>
+			<wfd:fileName>GW_quantitative_status</wfd:fileName>
+		</gwMethodologiesQuantitativeClassificationReference>
+	</GWMethodologies>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_14797-55-8 - Nitrate</pollutantIndicatorCode>
+		<thresholdValue>37,5-39,9</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_16887-00-6 - Chloride</pollutantIndicatorCode>
+		<thresholdValue>188,2-194,25</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_18785-72-3 - Sulphate</pollutantIndicatorCode>
+		<thresholdValue>188,3-201</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>EEA_3142-01-6 - Electrical conductivity</pollutantIndicatorCode>
+		<thresholdValue>1508,5-1875,25</thresholdValue>
+		<thresholdValueUnit>uS/cm</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_14797-65-0 - Nitrite</pollutantIndicatorCode>
+		<thresholdValue>0,3750-0,3954</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_14798-03-9 - Ammonium</pollutantIndicatorCode>
+		<thresholdValue>0,3758-0,4773</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-70-2 - Calcium</pollutantIndicatorCode>
+		<thresholdValue>113,75-135,00</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7439-95-4 - Magnesium</pollutantIndicatorCode>
+		<thresholdValue>60,5-78,85</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-23-5 - Sodium</pollutantIndicatorCode>
+		<thresholdValue>147,5-168,2</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>EEA_33-42-1 - Total trichloroethylene + tetrachloroethylene</pollutantIndicatorCode>
+		<thresholdValue>7,5</thresholdValue>
+		<thresholdValueUnit>ug/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>EEA_33-64-7 - Total cyanide</pollutantIndicatorCode>
+		<thresholdValue>0,04</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-66-6 - Zinc and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,751-0,777</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7439-89-6 - Iron and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,150-0,195</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7439-96-5 - Manganese and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,0376-0,0385</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-50-8 - Copper and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,150-0,153</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-47-3 - Chromium and its compounds</pollutantIndicatorCode>
+		<thresholdValue>37,62-45,5</thresholdValue>
+		<thresholdValueUnit>ug/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-38-2 - Arsenic and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,0075-0,0092</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>EEA_34-01-5 - Pesticides (Active substances in pesticides, including their relevant metabolites, degradation and reaction products)</pollutantIndicatorCode>
+		<thresholdValue>0,3750</thresholdValue>
+		<thresholdValueUnit>ug/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7439-92-1 - Lead and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,0076-0,0086</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7439-97-6 - Mercury and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,0008</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_14265-44-2 - Phosphate</pollutantIndicatorCode>
+		<thresholdValue>0,377-0,432</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-02-0 - Nickel and its compounds</pollutantIndicatorCode>
+		<thresholdValue>15,0-17,5</thresholdValue>
+		<thresholdValueUnit>ug/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>EEA_31-01-6 - Hardness</pollutantIndicatorCode>
+		<thresholdValue>9,2-11,55</thresholdValue>
+		<thresholdValueUnit>{other}</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<ThresholdValue>
+		<pollutantIndicatorCode>CAS_7440-43-9 - Cadmium and its compounds</pollutantIndicatorCode>
+		<thresholdValue>0,0037-0,0044</thresholdValue>
+		<thresholdValueUnit>mg/L</thresholdValueUnit>
+		<thresholdValueScale>WB - Water body</thresholdValueScale>
+		<startingPointTrendReversal>75</startingPointTrendReversal>
+	</ThresholdValue>
+	<GWPressures>
+		<gwPressuresNotAssessed>Not applicable</gwPressuresNotAssessed>
+		<gwSignificantPressurePointSourceTools>Combination of Both</gwSignificantPressurePointSourceTools>
+		<gwSignificantPressureDiffuseSourceTools>Combination of Both</gwSignificantPressureDiffuseSourceTools>
+		<gwSignificantPressureWaterAbstractionTools>Combination of Both</gwSignificantPressureWaterAbstractionTools>
+		<gwSignificantPressureArtificialRecharge>Not Assessed</gwSignificantPressureArtificialRecharge>
+		<gwSignificantPressureOtherSourceTools>Not Assessed</gwSignificantPressureOtherSourceTools>
+		<gwSignificanceDefinition>Yes</gwSignificanceDefinition>
+		<gwSignificanceLinkFailure>Yes</gwSignificanceLinkFailure>
+		<gwPressuresReference>
+			<wfd:subject>Подход за оценка на натиск, въздействие и риск за количественото състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на натиск, въздействие и риск за количественото състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Натиск върху кол.състояние,стр.1-4</wfd:bookmark>
+			<wfd:fileName>GW_quantity_pressure_impact_risk</wfd:fileName>
+		</gwPressuresReference>
+		<gwPressuresReference>
+			<wfd:subject>Подход за оценка на натиск, въздействие и риск за количественото състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на натиск, въздействие и риск за количественото състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Въздействие върху кол.състояние ,стр.5-9</wfd:bookmark>
+			<wfd:fileName>GW_quantity_pressure_impact_risk</wfd:fileName>
+		</gwPressuresReference>
+		<gwPressuresReference>
+			<wfd:subject>Подход за оценка на натиск, въздействие и риск за количественото състояние на подземните водни тела</wfd:subject>
+			<wfd:documentName>Подход за оценка на натиск, въздействие и риск за количественото състояние на подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Оценка на риска(стр.9-14)</wfd:bookmark>
+			<wfd:fileName>GW_quantity_pressure_impact_risk</wfd:fileName>
+		</gwPressuresReference>
+	</GWPressures>
+	<GWExemptions>
+		<gwExemption44Impact>CHEM - Chemical pollution</gwExemption44Impact>
+		<gwExemption44Impact>NUTR - Nutrient pollution</gwExemption44Impact>
+		<gwExemption44Driver>Agriculture</gwExemption44Driver>
+		<gwExemption44Driver>Urban development</gwExemption44Driver>
+		<gwExemption44Driver>Industry</gwExemption44Driver>
+		<gwExemption45Impact>NOTA - Not applicable</gwExemption45Impact>
+		<gwExemption45Driver>Exemption not applied</gwExemption45Driver>
+		<gwDisproportionateCost>No</gwDisproportionateCost>
+		<gwTechnicalInfeasibility>It takes longer to fix the problem than there is time available</gwTechnicalInfeasibility>
+		<gwNaturalConditions>Natural hydrogeological conditions</gwNaturalConditions>
+		<gwExemption46>Article 4(6) has not been applied</gwExemption46>
+		<gwExemption47>Article 4(7) has not been applied</gwExemption47>
+		<gwExemptionsTransboundary>No</gwExemptionsTransboundary>
+		<gwExemptionsReference>
+			<wfd:subject>Методика за прилагане на изключения 4(4)-4(7)</wfd:subject>
+			<wfd:documentName>Методика за прилагане на изключенията по чл.156б-156е от Закона за водите</wfd:documentName>
+			<wfd:bookmark>Методика</wfd:bookmark>
+			<wfd:fileName>Metodology_Exemptions</wfd:fileName>
+		</gwExemptionsReference>
+		<driversGWExemptionsReference>
+			<wfd:subject>Движещите сили зад изключенията по отношение на подземните водни тела.</wfd:subject>
+			<wfd:documentName>Връзка "движеща сила - въздействие - изключения" при ПВТ в ДРБУ</wfd:documentName>
+			<wfd:bookmark>RBMP_Part_5_Annexes page 107</wfd:bookmark>
+			<wfd:fileName>Part_5_Annexes</wfd:fileName>
+		</driversGWExemptionsReference>
+	</GWExemptions>
+	<!-- Generated by WISE Tool, Date generated: 2016-12-28, Access version: 6.0.6 -->
+</GWMET>
