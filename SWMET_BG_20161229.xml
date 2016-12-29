@@ -1,0 +1,3326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SWMET xmlns:wfd="http://dd.eionet.europa.eu/schemas/WFD2016/wfdcommon" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://dd.eionet.europa.eu/schemas/WFD2016" xsi:schemaLocation="http://dd.eionet.europa.eu/schemas/WFD2016 http://dd.eionet.europa.eu/schemas/WFD2016/SWMET_2016.xsd" creationDate="2016-11-01" creator="" description="" email="" fileName="" generatedBy="" language="bul">
+	<countryCode>BG</countryCode>
+	<euRBDCode>BG1000</euRBDCode>
+	<SWType>
+		<swTypeCode>R2</swTypeCode>
+		<swTypeDescription>Mountain rivers in the Pontic Province (Ecoregion 12)</swTypeDescription>
+		<swIntercalibrationType>RW-R-E1 - Eastern Continental Carpathians, small to medium, mid-altitude (includes RW-R-E1a and RW-R-1b)</swIntercalibrationType>
+		<swIntercalibrationType>RW-R-E4 - Eastern Continental Plains, medium-sized, mid-altitude</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>All</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>Some</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>R4</swTypeCode>
+		<swTypeDescription>Semi-Mountain Rivers with gravel substrata in the Pontic Province</swTypeDescription>
+		<swIntercalibrationType>RW-R-E1 - Eastern Continental Carpathians, small to medium, mid-altitude (includes RW-R-E1a and RW-R-1b)</swIntercalibrationType>
+		<swIntercalibrationType>RW-R-E4 - Eastern Continental Plains, medium-sized, mid-altitude</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>All</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>Some</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>R7</swTypeCode>
+		<swTypeDescription>Large tributaries of the Danube</swTypeDescription>
+		<swIntercalibrationType>RW-R-E2 - Eastern Continental Plains, medium-sized, lowland</swIntercalibrationType>
+		<swIntercalibrationType>RW-R-E3 - Eastern Continental Plains, large, lowland</swIntercalibrationType>
+		<swIntercalibrationType>RW-R-E4 - Eastern Continental Plains, medium-sized, mid-altitude</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>All</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>Some</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>R8</swTypeCode>
+		<swTypeDescription>Small and medium-size rivers in the Danube River Basin</swTypeDescription>
+		<swIntercalibrationType>RW-R-E2 - Eastern Continental Plains, medium-sized, lowland</swIntercalibrationType>
+		<swIntercalibrationType>RW-R-E3 - Eastern Continental Plains, large, lowland</swIntercalibrationType>
+		<swIntercalibrationType>RW-R-E4 - Eastern Continental Plains, medium-sized, mid-altitude</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>All</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>Some</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>R9</swTypeCode>
+		<swTypeDescription>Calcareous losing rivers in the Dobrudja plateau</swTypeDescription>
+		<swIntercalibrationType>LW-EC1 - Eastern Continental, lowland, very shallow, hard-water</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>R15</swTypeCode>
+		<swTypeDescription>Karst springs and other spring ecosystems</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L1</swTypeCode>
+		<swTypeDescription>Glacial high-mountain lakes (Alpine Lakes)</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L2</swTypeCode>
+		<swTypeDescription>Mountain Lakes</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L4</swTypeCode>
+		<swTypeDescription>Lowland and semi-mountain lakes and swamps</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L5</swTypeCode>
+		<swTypeDescription>Riparian lakes and marshes</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>Some</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L11</swTypeCode>
+		<swTypeDescription>Large deep resrvoirs</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L12</swTypeCode>
+		<swTypeDescription>Medium-size and small semi-mountain reservoirs in the ecoregion 12</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L14</swTypeCode>
+		<swTypeDescription>Large lowland reservoirs up to middle depth</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>L16</swTypeCode>
+		<swTypeDescription>Малки и средни равнинни язовири в екорегион 12</swTypeDescription>
+		<swIntercalibrationType>Not applicable</swIntercalibrationType>
+		<swTypeCategory>LW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWType>
+		<swTypeCode>R6</swTypeCode>
+		<swTypeDescription>Долен Дунав</swTypeDescription>
+		<swIntercalibrationType>RW-R-L2 - Very large medium to  high alkalinity (all GIGs)</swIntercalibrationType>
+		<swTypeCategory>RW</swTypeCategory>
+		<swTypeSpecificReferenceConditionsForBQEs>None</swTypeSpecificReferenceConditionsForBQEs>
+		<swTypeSpecificReferenceConditionsForHyMoQEs>None</swTypeSpecificReferenceConditionsForHyMoQEs>
+		<swTypeSpecificReferenceConditionsForPhysChemQEs>None</swTypeSpecificReferenceConditionsForPhysChemQEs>
+	</SWType>
+	<SWMethodologies>
+		<typologyMethodologyReference>
+			<wfd:subject>Оценка на екологично състояние</wfd:subject>
+			<wfd:documentName>НАРЕДБА № Н-4 от 14.09.2012 г. за характеризиране на повърхностните води</wfd:documentName>
+			<wfd:bookmark>НАРЕДБА № Н-4</wfd:bookmark>
+			<wfd:hyperlink>http://www5.moew.government.bg/?page_id=24252</wfd:hyperlink>
+		</typologyMethodologyReference>
+		<typologyMethodologyReference>
+			<wfd:subject> Типология-методология, референтни условия</wfd:subject>
+			<wfd:documentName>Паспорти за определените типове реки и езера в ДРБУ</wfd:documentName>
+			<wfd:bookmark>RBMP Part_1_Annexes, page.43 - Приложение 1.2.2.1</wfd:bookmark>
+			<wfd:fileName>Part_1_Annexes</wfd:fileName>
+		</typologyMethodologyReference>
+		<smallWBsMethodologyReference>
+			<wfd:subject>Определяне границите на водните тела-минимална площ</wfd:subject>
+			<wfd:documentName>Подход за определяне/актуализация на границите на повърхностни водни тела при актуализацията на ПУРБ</wfd:documentName>
+			<wfd:bookmark> Раздел  I.2</wfd:bookmark>
+			<wfd:fileName>SWB_Boundaries</wfd:fileName>
+		</smallWBsMethodologyReference>
+		<minimumCatchmentAreaRivers>10</minimumCatchmentAreaRivers>
+		<minimumSurfaceAreaLakes>0.5</minimumSurfaceAreaLakes>
+		<iRBDTypologyCoOrdinationReference>
+			<wfd:subject>Координация на типологията в международния речен басейн</wfd:subject>
+			<wfd:documentName>DRBM Plan Update 2015 - Annexes</wfd:documentName>
+			<wfd:bookmark>page 2; Annex 2</wfd:bookmark>
+			<wfd:hyperlink>http://www.icpdr.org/main/sites/default/files/nodes/documents/drbmp-update2015-annexes.pdf</wfd:hyperlink>
+		</iRBDTypologyCoOrdinationReference>
+		<hmwbMethodologyReference>
+			<wfd:subject>Определяне на силно модифицирани водни тела</wfd:subject>
+			<wfd:documentName>Подход при определяне на силно модифицирани водни тела (СМВТ) и изкуствени водни тела (ИВТ)
+</wfd:documentName>
+			<wfd:bookmark>Подход</wfd:bookmark>
+			<wfd:fileName>SWB_Designation of HMWB</wfd:fileName>
+		</hmwbMethodologyReference>
+	</SWMethodologies>
+	<BQEMethod>
+		<bqeMethodName>Irish Biotic Index (IBI)</bqeMethodName>
+		<bqeCode>QE1-3 - Benthic invertebrates</bqeCode>
+		<bqeCategoryRW>Yes</bqeCategoryRW>
+		<bqeCategoryLW>No</bqeCategoryLW>
+		<bqeCategoryTW>No</bqeCategoryTW>
+		<bqeCategoryCW>No</bqeCategoryCW>
+		<bqePercentageOfTypes>86</bqePercentageOfTypes>
+		<bqeSensitivityImpactNutrients>Yes</bqeSensitivityImpactNutrients>
+		<bqeSensitivityImpactOrganic>Yes</bqeSensitivityImpactOrganic>
+		<bqeSensitivityImpactChemical>Yes</bqeSensitivityImpactChemical>
+		<bqeSensitivityImpactSaline>No</bqeSensitivityImpactSaline>
+		<bqeSensitivityImpactAcidification>No</bqeSensitivityImpactAcidification>
+		<bqeSensitivityImpactTemperature>No</bqeSensitivityImpactTemperature>
+		<bqeSensitivityImpactHydrological>No</bqeSensitivityImpactHydrological>
+		<bqeSensitivityImpactMorphological>Yes</bqeSensitivityImpactMorphological>
+		<bqeSensitivityImpactOther>No</bqeSensitivityImpactOther>
+	</BQEMethod>
+	<BQEMethod>
+		<bqeMethodName>Reference Index</bqeMethodName>
+		<bqeCode>QE1-2-3 - Macrophytes</bqeCode>
+		<bqeCategoryRW>Yes</bqeCategoryRW>
+		<bqeCategoryLW>No</bqeCategoryLW>
+		<bqeCategoryTW>No</bqeCategoryTW>
+		<bqeCategoryCW>No</bqeCategoryCW>
+		<bqePercentageOfTypes>86</bqePercentageOfTypes>
+		<bqeSensitivityImpactNutrients>Yes</bqeSensitivityImpactNutrients>
+		<bqeSensitivityImpactOrganic>Yes</bqeSensitivityImpactOrganic>
+		<bqeSensitivityImpactChemical>No</bqeSensitivityImpactChemical>
+		<bqeSensitivityImpactSaline>No</bqeSensitivityImpactSaline>
+		<bqeSensitivityImpactAcidification>No</bqeSensitivityImpactAcidification>
+		<bqeSensitivityImpactTemperature>No</bqeSensitivityImpactTemperature>
+		<bqeSensitivityImpactHydrological>Yes</bqeSensitivityImpactHydrological>
+		<bqeSensitivityImpactMorphological>Yes</bqeSensitivityImpactMorphological>
+		<bqeSensitivityImpactOther>No</bqeSensitivityImpactOther>
+	</BQEMethod>
+	<BQEMethod>
+		<bqeMethodName>Ecological status assessment of rivers in Bulgaria based on IPS diatom index</bqeMethodName>
+		<bqeCode>QE1-2-4 - Phytobenthos</bqeCode>
+		<bqeCategoryRW>Yes</bqeCategoryRW>
+		<bqeCategoryLW>No</bqeCategoryLW>
+		<bqeCategoryTW>No</bqeCategoryTW>
+		<bqeCategoryCW>No</bqeCategoryCW>
+		<bqePercentageOfTypes>86</bqePercentageOfTypes>
+		<bqeSensitivityImpactNutrients>Yes</bqeSensitivityImpactNutrients>
+		<bqeSensitivityImpactOrganic>Yes</bqeSensitivityImpactOrganic>
+		<bqeSensitivityImpactChemical>No</bqeSensitivityImpactChemical>
+		<bqeSensitivityImpactSaline>No</bqeSensitivityImpactSaline>
+		<bqeSensitivityImpactAcidification>No</bqeSensitivityImpactAcidification>
+		<bqeSensitivityImpactTemperature>No</bqeSensitivityImpactTemperature>
+		<bqeSensitivityImpactHydrological>No</bqeSensitivityImpactHydrological>
+		<bqeSensitivityImpactMorphological>Yes</bqeSensitivityImpactMorphological>
+		<bqeSensitivityImpactOther>No</bqeSensitivityImpactOther>
+	</BQEMethod>
+	<BQEMethod>
+		<bqeMethodName>Bulgarian fish based index</bqeMethodName>
+		<bqeCode>QE1-4 - Fish</bqeCode>
+		<bqeCategoryRW>Yes</bqeCategoryRW>
+		<bqeCategoryLW>No</bqeCategoryLW>
+		<bqeCategoryTW>No</bqeCategoryTW>
+		<bqeCategoryCW>No</bqeCategoryCW>
+		<bqePercentageOfTypes>57</bqePercentageOfTypes>
+		<bqeSensitivityImpactNutrients>No</bqeSensitivityImpactNutrients>
+		<bqeSensitivityImpactOrganic>No</bqeSensitivityImpactOrganic>
+		<bqeSensitivityImpactChemical>No</bqeSensitivityImpactChemical>
+		<bqeSensitivityImpactSaline>No</bqeSensitivityImpactSaline>
+		<bqeSensitivityImpactAcidification>No</bqeSensitivityImpactAcidification>
+		<bqeSensitivityImpactTemperature>No</bqeSensitivityImpactTemperature>
+		<bqeSensitivityImpactHydrological>Yes</bqeSensitivityImpactHydrological>
+		<bqeSensitivityImpactMorphological>Yes</bqeSensitivityImpactMorphological>
+		<bqeSensitivityImpactOther>No</bqeSensitivityImpactOther>
+	</BQEMethod>
+	<BQEMethod>
+		<bqeMethodName>Chlorophiyll a</bqeMethodName>
+		<bqeCode>QE1-1 - Phytoplankton</bqeCode>
+		<bqeCategoryRW>No</bqeCategoryRW>
+		<bqeCategoryLW>Yes</bqeCategoryLW>
+		<bqeCategoryTW>No</bqeCategoryTW>
+		<bqeCategoryCW>No</bqeCategoryCW>
+		<bqePercentageOfTypes>100</bqePercentageOfTypes>
+		<bqeSensitivityImpactNutrients>Yes</bqeSensitivityImpactNutrients>
+		<bqeSensitivityImpactOrganic>Yes</bqeSensitivityImpactOrganic>
+		<bqeSensitivityImpactChemical>No</bqeSensitivityImpactChemical>
+		<bqeSensitivityImpactSaline>No</bqeSensitivityImpactSaline>
+		<bqeSensitivityImpactAcidification>No</bqeSensitivityImpactAcidification>
+		<bqeSensitivityImpactTemperature>No</bqeSensitivityImpactTemperature>
+		<bqeSensitivityImpactHydrological>No</bqeSensitivityImpactHydrological>
+		<bqeSensitivityImpactMorphological>No</bqeSensitivityImpactMorphological>
+		<bqeSensitivityImpactOther>No</bqeSensitivityImpactOther>
+	</BQEMethod>
+	<SWSupportingQE>
+		<supportingQECode>QE2-1 - Hydrological or tidal regime</supportingQECode>
+		<supportingQECategoryRW>No</supportingQECategoryRW>
+		<supportingQECategoryLW>No</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>No</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE2-2 - River continuity conditions</supportingQECode>
+		<supportingQECategoryRW>No</supportingQECategoryRW>
+		<supportingQECategoryLW>No</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>No</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE2-3 - Morphological conditions</supportingQECode>
+		<supportingQECategoryRW>No</supportingQECategoryRW>
+		<supportingQECategoryLW>No</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>No</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE3-1-1 - Transparency conditions</supportingQECode>
+		<supportingQECategoryRW>No</supportingQECategoryRW>
+		<supportingQECategoryLW>Yes</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>Yes</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE3-1-2 - Thermal conditions</supportingQECode>
+		<supportingQECategoryRW>No</supportingQECategoryRW>
+		<supportingQECategoryLW>No</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>No</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE3-1-3 - Oxygenation conditions</supportingQECode>
+		<supportingQECategoryRW>Yes</supportingQECategoryRW>
+		<supportingQECategoryLW>Yes</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>Yes</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE3-1-4 - Salinity conditions</supportingQECode>
+		<supportingQECategoryRW>Yes</supportingQECategoryRW>
+		<supportingQECategoryLW>Yes</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>Yes</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE3-1-5 - Acidification status</supportingQECode>
+		<supportingQECategoryRW>No</supportingQECategoryRW>
+		<supportingQECategoryLW>No</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>No</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWSupportingQE>
+		<supportingQECode>QE3-1-6 - Nutrient conditions</supportingQECode>
+		<supportingQECategoryRW>Yes</supportingQECategoryRW>
+		<supportingQECategoryLW>Yes</supportingQECategoryLW>
+		<supportingQECategoryTW>No</supportingQECategoryTW>
+		<supportingQECategoryCW>No</supportingQECategoryCW>
+		<supportingQESensitivityBQE>Yes</supportingQESensitivityBQE>
+	</SWSupportingQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>7-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>7-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>6-5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>7-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>7-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>8-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>7-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-2 - Dissolved oxygen (mg/l)</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>7-6</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>6,5-8,5</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>6,5-8,5</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>6,5-8,5</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>6,5-8,5</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>6,5-8,5</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>6,5-8,5</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-5-2 - pH</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>6,5-8,7</physChemValue>
+		<physChemUnit>[pH]</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>0,04-0,4</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>0,04-0,4</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>0,10-0,3</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>0,10-0,3</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>0,3-0,65</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>0,04-0,4</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>0,03-0,08</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>0,03-0,08</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>0,1-0,3</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>0,1-0,3</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>0,03-0,08</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>0,03-0,08</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>0,1-0,3</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-4 - Ammonium</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>0,1-0,3</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>0,2-0,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>0,5-1,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>0,7-2,0</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>0,7-2,0</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>1,0-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>0,5-0,15</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>0,2-0,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>0,2-0,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>0,8-2,0</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>0,8-2,0</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>0,2-0,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>0,2-0,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>0,8-2,0</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-1 - Nitrate</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>0,8-2,0</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>0,01-0,025</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>0,01-0,03</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>0,01-0,03</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>0,01-0,025</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>0,01-0,025</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>0,01-0,025</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>0,01-0,025</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-2 - Nitrite</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>0,03-0,06</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>0,2-0,8</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>0,5-1,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>0,7-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>0,7-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>1,0-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>0,5-1,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>0,2-0,8</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>0,2-0,8</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>0,7-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>0,7-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>0,2-0,8</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>0,2-0,8</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>0,7-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-1-5 - Total Nitrogen</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>0,7-2,5</physChemValue>
+		<physChemUnit>mg{N}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>0,01-0,02</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>0,02-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>0,07-0,15</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>0,07-0,15</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>0,07-0,15</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>0,02-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>0,025-0,06</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>0,025-0,06</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>0,025-0,06</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-1 - Orthophosphate</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>0,025-0,06</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>0,012-0,03</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>0,025-0,075</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>0,15-0,3</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>0,15-0,3</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>0,15-0,3</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>0,025-0,075</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>0,025-0,075</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>0,025-0,075</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>0,0125-0,04</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>0,025-0,075</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-6-2-2 - Total Phosphorous</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>0,025-0,075</physChemValue>
+		<physChemUnit>mg{P}/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-1-1 - Secchi disk depth</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>4-2</physChemValue>
+		<physChemUnit>m</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>1-2,5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>1,2-3</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>2-4</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>2-4</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>2-5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>1,2-3</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>1-2,5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>1-2,5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>2-4</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>2-4</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>1-2,5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>1-2,5</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>2-4</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-3-3 - Other determinand for oxygenation conditions</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>2-4</physChemValue>
+		<physChemUnit>mg/L</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>R2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R2</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>R4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R4</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>R7</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R7</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>R8</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R8</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>R9</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R9</physChemTypeCode>
+		<physChemValue>900</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>R15</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>R15</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>Yes</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L1</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L1</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L2</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L2</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L4</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L4</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L5</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L5</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L11</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L11</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L12</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L12</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L14</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L14</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWPhysicoChemicalQE>
+		<physChemQECode>QE3-1-4-2 - Other determinand for salinity</physChemQECode>
+		<physChemQEOther>L16</physChemQEOther>
+		<physChemCategoryRW>Yes</physChemCategoryRW>
+		<physChemCategoryLW>Yes</physChemCategoryLW>
+		<physChemCategoryTW>No</physChemCategoryTW>
+		<physChemCategoryCW>No</physChemCategoryCW>
+		<physChemTypeCode>L16</physChemTypeCode>
+		<physChemValue>750</physChemValue>
+		<physChemUnit>uS/cm</physChemUnit>
+		<physChemStandardType>AA-EQS</physChemStandardType>
+		<physChemGMBoundary>No</physChemGMBoundary>
+	</SWPhysicoChemicalQE>
+	<SWRBSP>
+		<rbspCode>CAS_100-41-4 - Ethylbenzene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>10</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_100-42-5 - Styrene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>20</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_106-46-7 - 1,4-dichlorobenzene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>10</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_108-88-3 - Toluene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>50</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_129-00-0 - Pyrene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,012</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_1330-20-7 - Xylene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>15</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_139-40-2 - Propazine</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,25</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_1610-18-0 - Prometon</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>1</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_208-96-8 - Acenaphthylene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,64</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_218-01-9 - Chrysene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,02</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_298-00-0 - Parathion-methyl</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,01</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_35065-27-1 - PCB 153 (2,2’,4,4’,5,5’-hexachlorobiphenyl)</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,0005</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_35065-28-2 - PCB 138 (2,2’,3,4,4’,5’-hexachlorobiphenyl)</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,0005</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_35065-29-3 - PCB 180 (2,2’,3,4,4’,5,5’-heptachlorobiphenyl)</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,0005</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_35693-99-3 - PCB 52 (2,2’,5,5’-tetrachlorobiphenyl)</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,0005</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_37680-73-2 - PCB 101 (2,2’,4,5,5’-pentachlorobiphenyl)</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,0005</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_40487-42-1 - Pendimethalin</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,3</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_53-70-3 - Dibenzo(a,h)anthracene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,1</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_541-73-1 - 1,3-dichlorobenzene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>20</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_56-55-3 - Benzo(a)anthracene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,01</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7012-37-5 - PCB 28 (2,4,4’-trichlorobiphenyl)</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,0005</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7287-19-6 - Prometryn</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,2</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_83-32-9 - Acenaphthene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>3,8</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_834-12-8 - Ametryn</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>0,1</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_85-01-8 - Phenanthrene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>1,3</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_86-73-7 - Fluorene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>10</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_95-50-1 - 1,2-dichlorobenzene</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>20</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7429-90-5 - Aluminium and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>15</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7440-38-2 - Arsenic and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>10</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7440-50-8 - Copper and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>1</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7439-89-6 - Iron and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>100</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7439-96-5 - Manganese and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>50</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7440-66-6 - Zinc and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>8</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_74-90-8 - Hydrogen cyanide</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>1</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7440-61-1 - Uranium</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>5</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>Yes</rbspAnalyticalMethod>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>EEA_33-08-9 - Chromium 3+</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>4,7</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_1333-82-0 - Cr(VI)O3</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>3,4</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWRBSP>
+		<rbspCode>CAS_7440-66-6 - Zinc and its compounds</rbspCode>
+		<rbspMatrix>Water</rbspMatrix>
+		<rbspCategoryRW>Yes</rbspCategoryRW>
+		<rbspCategoryLW>Yes</rbspCategoryLW>
+		<rbspCategoryTW>No</rbspCategoryTW>
+		<rbspCategoryCW>No</rbspCategoryCW>
+		<rbspStandardType>AA-EQS</rbspStandardType>
+		<rbspValue>8</rbspValue>
+		<rbspUnit>ug/L</rbspUnit>
+		<rbspScale>NAT - National scale</rbspScale>
+		<rbspTechGuidance>Yes</rbspTechGuidance>
+		<rbspAnalyticalMethod>No</rbspAnalyticalMethod>
+		<rbspAnalyticalMethodBAT>Yes</rbspAnalyticalMethodBAT>
+	</SWRBSP>
+	<SWTargetedQ>
+		<oneOutAllOut>Yes</oneOutAllOut>
+		<groupingExtrapolation>Yes</groupingExtrapolation>
+		<gepDefined>Yes</gepDefined>
+		<gepLevel>At waterbody level</gepLevel>
+		<gepApproach>CIS Guidance Approach</gepApproach>
+		<gepBiology>Yes</gepBiology>
+		<mitigationMeasures>Removal of structures: weirs, barriers, bank reinforcement</mitigationMeasures>
+		<mitigationMeasures>Setting of ecological flows</mitigationMeasures>
+		<mitigationMeasures>Inundation of flood plains</mitigationMeasures>
+		<mitigationMeasures>Reconnection of meander bends or side arms</mitigationMeasures>
+		<mitigationMeasures>Dredging minimisation and/or modification</mitigationMeasures>
+		<mitigationMeasures>Restoration of modified bed structure</mitigationMeasures>
+		<mitigationMeasures>Retention basins</mitigationMeasures>
+		<bqeForMEPGEP>QE1-4 - Fish</bqeForMEPGEP>
+		<gesGepComparison>Yes</gesGepComparison>
+		<ecologicalStatusMethodReference>
+			<wfd:subject>Оценка на екологично състояние</wfd:subject>
+			<wfd:documentName>НАРЕДБА № Н-4 от 14.09.2012 г. за характеризиране на повърхностните води</wfd:documentName>
+			<wfd:bookmark>НАРЕДБА № Н-4</wfd:bookmark>
+			<wfd:hyperlink>http://www5.moew.government.bg/?page_id=24252</wfd:hyperlink>
+		</ecologicalStatusMethodReference>
+		<gepMethodReference>
+			<wfd:subject>Оценка на екологично състояние</wfd:subject>
+			<wfd:documentName>НАРЕДБА № Н-4 от 14.09.2012 г. за характеризиране на повърхностните води</wfd:documentName>
+			<wfd:bookmark>НАРЕДБА № Н-4</wfd:bookmark>
+			<wfd:hyperlink>http://www5.moew.government.bg/?page_id=24252</wfd:hyperlink>
+		</gepMethodReference>
+		<driversFailureEcologicalStatusPotentialReference>
+			<wfd:subject>Движещи сили относно непостигане на ДЕС и  ДЕП  на повърхностните водни тела</wfd:subject>
+			<wfd:documentName>Движещи сили и въздействия възпрепятстващи постигането на добро екологично състояние при повърхностните води</wfd:documentName>
+			<wfd:bookmark>RBMP Part_2_Annexes, page.289 - Приложение 2.2.6</wfd:bookmark>
+			<wfd:fileName>Part_2_Annexes</wfd:fileName>
+		</driversFailureEcologicalStatusPotentialReference>
+	</SWTargetedQ>
+	<SWChemicalStatusClassificationRBD>
+		<percentageSWBNotMonitoredChemical>35</percentageSWBNotMonitoredChemical>
+		<approachSWBNotMonitoredChemical>The status of surface water bodies not monitored for chemical status has been derived or extrapolated from monitoring available for comparable water bodies</approachSWBNotMonitoredChemical>
+		<approachSWBNotMonitoredChemicalReference>
+			<wfd:subject>Методика за оценка на химичното състояние на повърхностни води</wfd:subject>
+			<wfd:documentName>Национална методика за оценка на химичното състояние на повърхностни води</wfd:documentName>
+			<wfd:bookmark>стр.3-6; стр.8-11</wfd:bookmark>
+			<wfd:fileName>SW_Assessment of chemical status</wfd:fileName>
+		</approachSWBNotMonitoredChemicalReference>
+		<limitOfQuantification>Yes</limitOfQuantification>
+		<backgroundConcentrations>Yes</backgroundConcentrations>
+		<backgroundConcentrationsReference>
+			<wfd:subject>Подход за определяне на фоновите концентрации при повърхностни води</wfd:subject>
+			<wfd:documentName>Подход за определяне на фоновите концентрации за химични елементи</wfd:documentName>
+			<wfd:bookmark>Подход стр.1-4</wfd:bookmark>
+			<wfd:fileName>SW_Determination of background levels</wfd:fileName>
+		</backgroundConcentrationsReference>
+		<backgroundConcentrationsReference>
+			<wfd:subject>Подход за определяне на фоновите концентрации при повърхностни води</wfd:subject>
+			<wfd:documentName>Подход за определяне на фоновите концентрации за химични елементи</wfd:documentName>
+			<wfd:bookmark>фоновите концентрации в ДРБУ стр.4-15</wfd:bookmark>
+			<wfd:fileName>SW_Determination of background levels</wfd:fileName>
+		</backgroundConcentrationsReference>
+		<bioavailability>No</bioavailability>
+		<bioavailabilityReference>
+			<wfd:subject>Методика за оценка на химичното състояние на повърхностни води</wfd:subject>
+			<wfd:documentName>Национална методика за оценка на химичното състояние на повърхностни води</wfd:documentName>
+			<wfd:bookmark> стр.2-3; стр.6-8</wfd:bookmark>
+			<wfd:fileName>SW_Assessment of chemical status</wfd:fileName>
+		</bioavailabilityReference>
+		<bioavailabilityReference>
+			<wfd:subject>Методика за оценка на химичното състояние на повърхностни води</wfd:subject>
+			<wfd:documentName>Национална методика за оценка на химичното състояние на повърхностни води</wfd:documentName>
+			<wfd:bookmark>стр.3-6; стр.8-11</wfd:bookmark>
+			<wfd:fileName>SW_Assessment of chemical status</wfd:fileName>
+		</bioavailabilityReference>
+		<longTermTrendAnalysis>No</longTermTrendAnalysis>
+		<longTermTrendAnalysisReference>
+			<wfd:subject>Подход за оценка на тенденциите - повърхностни води</wfd:subject>
+			<wfd:documentName>Подход за оценка на тенденциите в изменение на концентрациите на замърсители в седименти и биота</wfd:documentName>
+			<wfd:bookmark>стр.1-5</wfd:bookmark>
+			<wfd:fileName>SW_Trend assessment</wfd:fileName>
+		</longTermTrendAnalysisReference>
+		<longTermTrendAnalysisReference>
+			<wfd:subject>Подход за оценка на тенденциите - повърхностни води</wfd:subject>
+			<wfd:documentName>Подход за оценка на тенденциите в изменение на концентрациите на замърсители в седименти и биота</wfd:documentName>
+			<wfd:bookmark>изменение на конц. на замърсители в биота,стр.5-22</wfd:bookmark>
+			<wfd:fileName>SW_Trend assessment</wfd:fileName>
+		</longTermTrendAnalysisReference>
+		<longTermTrendAnalysisReference>
+			<wfd:subject>Подход за оценка на тенденциите - повърхностни води</wfd:subject>
+			<wfd:documentName>Подход за оценка на тенденциите в изменение на концентрациите на замърсители в седименти и биота</wfd:documentName>
+			<wfd:bookmark> дългосрочни тенд. на конц. на ПВ(стр.22-24</wfd:bookmark>
+			<wfd:fileName>SW_Trend assessment</wfd:fileName>
+		</longTermTrendAnalysisReference>
+		<mixingZoneDesignation>No</mixingZoneDesignation>
+		<chemicalStatusReference>
+			<wfd:subject>Методика за оценка на химичното състояние на повърхностни води</wfd:subject>
+			<wfd:documentName>Национална методика за оценка на химичното състояние на повърхностни води</wfd:documentName>
+			<wfd:bookmark>стр.3-6; стр.8-11</wfd:bookmark>
+			<wfd:fileName>SW_Assessment of chemical status</wfd:fileName>
+		</chemicalStatusReference>
+		<chemicalStatusReference>
+			<wfd:subject> СКОС за приоритетните вещества и някой други специфични замърсители</wfd:subject>
+			<wfd:documentName>НАРЕДБА за стандарти за качество на околната среда за приоритетни вещества и някои други замърсители</wfd:documentName>
+			<wfd:bookmark>НАРЕДБА</wfd:bookmark>
+			<wfd:hyperlink>http://www5.moew.government.bg/?page_id=24252</wfd:hyperlink>
+		</chemicalStatusReference>
+	</SWChemicalStatusClassificationRBD>
+	<SWManagementObjectives>
+		<managementObjectivesNutrients>Yes</managementObjectivesNutrients>
+		<managementObjectivesNutrientsQuantitativeN>Yes</managementObjectivesNutrientsQuantitativeN>
+		<managementObjectivesNutrientsQuantitativeP>Yes</managementObjectivesNutrientsQuantitativeP>
+		<managementObjectivesContinuity>Yes</managementObjectivesContinuity>
+		<managementObjectivesContinuityQuantitative>Yes</managementObjectivesContinuityQuantitative>
+		<managementObjectivesReference>
+			<wfd:subject>Информация относно целите на управление</wfd:subject>
+			<wfd:documentName>Списък на целите за опазване на околната среда</wfd:documentName>
+			<wfd:bookmark>RBMP Part_5_Environmental_objectives</wfd:bookmark>
+			<wfd:fileName>Part_5_Environmental_objectives</wfd:fileName>
+		</managementObjectivesReference>
+		<waterResourcePlans>No</waterResourcePlans>
+	</SWManagementObjectives>
+	<SWPressures>
+		<swPressuresNotAssessed>1.9 - Point - Other</swPressuresNotAssessed>
+		<swPressuresNotAssessed>2.1 - Diffuse - Urban run-off</swPressuresNotAssessed>
+		<swPressuresNotAssessed>2.3 - Diffuse - Forestry</swPressuresNotAssessed>
+		<swPressuresNotAssessed>4.1.5 - Physical alteration of channel/bed/riparian area/shore - Unknown or obsolete</swPressuresNotAssessed>
+		<swPressuresNotAssessed>4.2.8 - Dams, barriers and locks - Other</swPressuresNotAssessed>
+		<swPressuresNotAssessed>4.2.9 - Dams, barriers and locks - Unknown or obsolete</swPressuresNotAssessed>
+		<swPressuresNotAssessed>4.3.6 - Hydrological alteration - Other</swPressuresNotAssessed>
+		<swPressuresNotAssessed>4.5 - Hydromorphological alteration - Other</swPressuresNotAssessed>
+		<swPressuresNotAssessed>5.2 - Exploitation or removal of animals or plants</swPressuresNotAssessed>
+		<swPressuresNotAssessed>5.3 - Litter or fly tipping</swPressuresNotAssessed>
+		<swPressuresNotAssessed>6.1 - Groundwater - Recharges</swPressuresNotAssessed>
+		<swPressuresNotAssessed>6.2 - Groundwater - Alteration of water level or volume</swPressuresNotAssessed>
+		<swPressuresNotAssessed>7 - Anthropogenic pressure - Other</swPressuresNotAssessed>
+		<swPressuresNotAssessed>4.4 - Hydromorphological alteration - Physical loss of whole or part of the water body</swPressuresNotAssessed>
+		<swSignificantPressurePointSourceTools>Combination of Both</swSignificantPressurePointSourceTools>
+		<swSignificantPressureDiffuseSourceTools>Combination of Both</swSignificantPressureDiffuseSourceTools>
+		<swSignificantPressureWaterAbstractionTools>Expert Judgement</swSignificantPressureWaterAbstractionTools>
+		<swSignificantPressureWaterFlowTools>Expert Judgement</swSignificantPressureWaterFlowTools>
+		<swSignificantPressureOtherSourceTools>Not Assessed</swSignificantPressureOtherSourceTools>
+		<swSignificanceDefinition>Yes</swSignificanceDefinition>
+		<swSignificanceLinkFailure>Yes</swSignificanceLinkFailure>
+		<swPressuresReference>
+			<wfd:subject>Оценка на натиска и въздействието върху повърхностните водни тела</wfd:subject>
+			<wfd:documentName>RBMP Кратък преглед на значимите видове натиск и въздействие в резултат от човешката дейност върху състоянието на повърхностните и подземните водни тела</wfd:documentName>
+			<wfd:bookmark>Part_2_Pressure_Impact_Analysis,page 4-105</wfd:bookmark>
+			<wfd:fileName>Part_2_Pressure_Impact_Analysis</wfd:fileName>
+		</swPressuresReference>
+	</SWPressures>
+	<SWExemptions>
+		<swExemption44Impact>NUTR - Nutrient pollution</swExemption44Impact>
+		<swExemption44Impact>ORGA - Organic pollution</swExemption44Impact>
+		<swExemption44Impact>CHEM - Chemical pollution</swExemption44Impact>
+		<swExemption44Impact>HMOC - Altered habitats due to morphological changes (includes connectivity)</swExemption44Impact>
+		<swExemption44Driver>Agriculture</swExemption44Driver>
+		<swExemption44Driver>Fisheries and aquaculture</swExemption44Driver>
+		<swExemption44Driver>Industry</swExemption44Driver>
+		<swExemption44Driver>Urban development</swExemption44Driver>
+		<swExemption44Driver>Energy - hydropower</swExemption44Driver>
+		<swExemption44Driver>Flood protection</swExemption44Driver>
+		<swExemption45Impact>CHEM - Chemical pollution</swExemption45Impact>
+		<swExemption45Driver>Industry</swExemption45Driver>
+		<swDisproportionateCost>No</swDisproportionateCost>
+		<swTechnicalInfeasibility>It takes longer to fix the problem than there is time available</swTechnicalInfeasibility>
+		<swNaturalConditions>Natural hydrological conditions</swNaturalConditions>
+		<swExemption46>Article 4(6) has not been applied</swExemption46>
+		<swExemption47>Flood Protection Schemes</swExemption47>
+		<swExemptionsTransboundary>Yes</swExemptionsTransboundary>
+		<swExemptionsReference>
+			<wfd:subject>Методика за прилагане на изключения 4(4)-4(7)</wfd:subject>
+			<wfd:documentName>Методика за прилагане на изключенията по чл.156б-156е от Закона за водите</wfd:documentName>
+			<wfd:bookmark>Методика</wfd:bookmark>
+			<wfd:fileName>Metodology_Exemptions</wfd:fileName>
+		</swExemptionsReference>
+		<driversSWExemptionsReference>
+			<wfd:subject>Движещи сили относно изключенията  на повърхностните водни тела</wfd:subject>
+			<wfd:documentName>Движещи сили и въздействия при изключения от добро състояние, по
+бр.повърхностни водни тела за ПУРБ 2016-2021 г</wfd:documentName>
+			<wfd:bookmark>RBMP Part_5_Annexes, page.98 - Приложение 5.1.4</wfd:bookmark>
+			<wfd:fileName>Part_5_Annexes</wfd:fileName>
+		</driversSWExemptionsReference>
+	</SWExemptions>
+	<SWPrioritySubstance>
+		<psCode>CAS_104-40-5 - 4-nonylphenol</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_107-06-2 - 1,2-Dichloroethane</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_115-29-7 - Endosulfan</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_118-74-1 - Hexachlorobenzene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_120-12-7 - Anthracene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_12002-48-1 - Trichlorobenzenes (all isomers)</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_122-34-9 - Simazine</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_127-18-4 - Tetrachloroethylene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_140-66-9 - Octylphenol (4-(1,1',3,3'-tetramethylbutyl)-phenol)</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_1582-09-8 - Trifluralin</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_15972-60-8 - Alachlor</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_50-32-8 - Benzo(a)pyrene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_1912-24-9 - Atrazine</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_206-44-0 - Fluoranthene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_2921-88-2 - Chlorpyrifos</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_470-90-6 - Chlorfenvinphos</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_50-29-3 - DDT, p,p'</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_56-23-5 - Carbon tetrachloride</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_608-73-1 - Hexachlorocyclohexane</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_608-93-5 - Pentachlorobenzene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_67-66-3 - Trichloromethane</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_71-43-2 - Benzene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_7439-92-1 - Lead and its compounds</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_7439-97-6 - Mercury and its compounds</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_7440-02-0 - Nickel and its compounds</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_7440-43-9 - Cadmium and its compounds</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_75-09-2 - Dichloromethane</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_79-01-6 - Trichloroethylene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_87-68-3 - Hexachlorobutadiene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_87-86-5 - Pentachlorophenol</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_91-20-3 - Naphthalene</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>EEA_32-23-5 - Total Benzo(b)fluor-anthene (CAS_205-99-2) + Benzo(k)fluor-anthene (CAS_207-08-9)</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>EEA_32-02-0 - Total cyclodiene pesticides (aldrin + dieldrin + endrin + isodrin)</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>EEA_32-03-1 - Total DDT (DDT, p,p' + DDT, o,p' + DDE, p,p' + DDD, p,p')</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>EEA_32-24-6 - Total Benzo(g,h,i)-perylene (CAS_191-24-2) + Indeno(1,2,3-cd)-pyrene (CAS_193-39-5)</psCode>
+		<psStatusAssessment>Yes</psStatusAssessment>
+		<psStandardsUsed>Yes</psStandardsUsed>
+		<psAnalyticalMethod>No</psAnalyticalMethod>
+		<psAnalyticalMethodBAT>Yes</psAnalyticalMethodBAT>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_117-81-7 - Di(2-ethylhexyl)phthalate (DEHP)</psCode>
+		<psStatusAssessment>No</psStatusAssessment>
+		<psStandardsUsed>No</psStandardsUsed>
+		<psMatrix>Water</psMatrix>
+		<psCategoryRW>Yes</psCategoryRW>
+		<psCategoryLW>Yes</psCategoryLW>
+		<psCategoryTW>Yes</psCategoryTW>
+		<psCategoryCW>Yes</psCategoryCW>
+		<psCategoryTeW>Yes</psCategoryTeW>
+		<psStandardType>AA-EQS</psStandardType>
+		<psValue>1,3</psValue>
+		<psUnit>ug/L</psUnit>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_330-54-1 - Diuron</psCode>
+		<psStatusAssessment>No</psStatusAssessment>
+		<psStandardsUsed>No</psStandardsUsed>
+		<psMatrix>Water</psMatrix>
+		<psCategoryRW>Yes</psCategoryRW>
+		<psCategoryLW>Yes</psCategoryLW>
+		<psCategoryTW>Yes</psCategoryTW>
+		<psCategoryCW>Yes</psCategoryCW>
+		<psCategoryTeW>Yes</psCategoryTeW>
+		<psStandardType>AA-EQS</psStandardType>
+		<psValue>0,2</psValue>
+		<psUnit>ug/L</psUnit>
+		<psScale>NAT - National scale</psScale>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_34123-59-6 - Isoproturon</psCode>
+		<psStatusAssessment>No</psStatusAssessment>
+		<psStandardsUsed>No</psStandardsUsed>
+		<psMatrix>Water</psMatrix>
+		<psCategoryRW>Yes</psCategoryRW>
+		<psCategoryLW>Yes</psCategoryLW>
+		<psCategoryTW>Yes</psCategoryTW>
+		<psCategoryCW>Yes</psCategoryCW>
+		<psCategoryTeW>Yes</psCategoryTeW>
+		<psStandardType>AA-EQS</psStandardType>
+		<psValue>0,3</psValue>
+		<psUnit>ug/L</psUnit>
+		<psScale>NAT - National scale</psScale>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_36643-28-4 - Tributyltin-cation</psCode>
+		<psStatusAssessment>No</psStatusAssessment>
+		<psStandardsUsed>No</psStandardsUsed>
+		<psMatrix>Water</psMatrix>
+		<psCategoryRW>Yes</psCategoryRW>
+		<psCategoryLW>Yes</psCategoryLW>
+		<psCategoryTW>Yes</psCategoryTW>
+		<psCategoryCW>Yes</psCategoryCW>
+		<psCategoryTeW>Yes</psCategoryTeW>
+		<psStandardType>AA-EQS</psStandardType>
+		<psValue>0,0002</psValue>
+		<psUnit>ug/L</psUnit>
+		<psScale>NAT - National scale</psScale>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>CAS_85535-84-8 - Chloroalkanes C10-13</psCode>
+		<psStatusAssessment>No</psStatusAssessment>
+		<psStandardsUsed>No</psStandardsUsed>
+		<psMatrix>Water</psMatrix>
+		<psCategoryRW>Yes</psCategoryRW>
+		<psCategoryLW>Yes</psCategoryLW>
+		<psCategoryTW>Yes</psCategoryTW>
+		<psCategoryCW>Yes</psCategoryCW>
+		<psCategoryTeW>Yes</psCategoryTeW>
+		<psStandardType>AA-EQS</psStandardType>
+		<psValue>0,4</psValue>
+		<psUnit>ug/L</psUnit>
+		<psScale>NAT - National scale</psScale>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<SWPrioritySubstance>
+		<psCode>EEA_32-04-2 - Brominated diphenylethers (congener numbers 28, 47, 99, 100, 153 and 154)</psCode>
+		<psStatusAssessment>No</psStatusAssessment>
+		<psStandardsUsed>No</psStandardsUsed>
+		<psMatrix>Water</psMatrix>
+		<psCategoryRW>Yes</psCategoryRW>
+		<psCategoryLW>Yes</psCategoryLW>
+		<psCategoryTW>Yes</psCategoryTW>
+		<psCategoryCW>Yes</psCategoryCW>
+		<psCategoryTeW>Yes</psCategoryTeW>
+		<psStandardType>AA-EQS</psStandardType>
+		<psValue>0,0005</psValue>
+		<psUnit>ug/L</psUnit>
+		<psScale>NAT - National scale</psScale>
+		<psAnalyticalMethod>Yes</psAnalyticalMethod>
+	</SWPrioritySubstance>
+	<!-- Generated by WISE Tool, Date generated: 2016-12-29, Access version: 6.0.6 -->
+</SWMET>
