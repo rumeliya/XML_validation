@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FHRM_links xmlns:fd="http://water.eionet.europa.eu/schemas/dir200760ec/fdcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://water.eionet.europa.eu/schemas/dir200760ec http://water.eionet.europa.eu/schemas/dir200760ec/FHRM_LinkToMS.xsd" xmlns="http://water.eionet.europa.eu/schemas/dir200760ec">
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_DU_001</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за българския участък на р.Дунав</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_IS_011</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Искър-р.Искър при гр.Роман</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_IS_031</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Искър-р.Бебреш при с.Скравена</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_IS_033</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Искър-р.Искър при гр.Своге</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_IS_041</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Искър-р.Искър и притоци в Софийското поле</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OG_011</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Огоста-р.Огоста при гр.Мизия</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OG_012</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Огоста-р.Въртешница при с.Бели извор</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OG_013</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Огоста-р.Скът при гр.Бяла Слатина</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OG_061</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Огоста-р.Берковска при гр.Берковица</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OS_011</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Осъм-р.Осъм при гр.Летница</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OS_012</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Осъм-р.Ломя при с.Бутово</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OS_021</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Осъм-р.Осъм при гр.Ловеч</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_OS_031</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Осъм-р.Осъм при гр.Троян</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_RL_011</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Русенски Лом -р.Поповски Лом при гр.Попово</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_RL_012</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Русенски Лом -р.Долапдере при гр.Цар Калоян, река Бели Лом  при с.Писанец и с.Нисово, река Черни Лом при с.Табачка, с.Червен и с.Кошов и река Русенски Лом при с.Иваново до землището на с.Божичен</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_RL_014</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Русенски Лом -р.Русенски Лом  от с.Божичен  до устието и</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_VT_011</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Вит-р.Вит при гр.Плевен</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_WO_051</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Западно от Огоста</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_011</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Янтра между градовете Полски Тръмбеш и Бяла</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_021</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Росица при с.Ресен</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_022</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -Голямата река при р.Стражица</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_023</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Янтра между градовете Велико Търново и Горна Оряховица</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_031</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Янтра при гр.Габрово</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_041</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Росица при гр.Севлиево</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_061</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Еленска при гр.Елена</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+  <FHRM_link>
+    <Area>
+      <APSFRCode>BG1_APSFR_YN_101</APSFRCode>
+    </Area>
+    <Links>
+      <URL />
+      <LinkDescription>
+        <MapCategories>
+          <MapCategory>HighProbabilityHazard</MapCategory>
+          <MapCategory>HighProbabilityRisk</MapCategory>
+          <MapCategory>LowProbabilityHazard</MapCategory>
+          <MapCategory>LowProbabilityRisk</MapCategory>
+          <MapCategory>MediumProbabilityHazard</MapCategory>
+          <MapCategory>MediumProbabilityRisk</MapCategory>
+        </MapCategories>
+        <Description>Връзка към интернет-страница на БДДР с публикувани карти на заплаха и риск от наводнение за поречие Янтра -р.Дряновска между градовете Плачковци и Трявнао</Description>
+        <ContactPoint>Басйнова Дирекция Дунавски район - dunavbd@bddr.org</ContactPoint>
+      </LinkDescription>
+    </Links>
+  </FHRM_link>
+</FHRM_links>
