@@ -1,0 +1,842 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PoM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfd="http://dd.eionet.europa.eu/schemas/WFD2016/wfdcommon" xmlns="http://dd.eionet.europa.eu/schemas/WFD_PoM_2018" xsi:schemaLocation="http://dd.eionet.europa.eu/schemas/WFD_PoM_2018 http://dd.eionet.europa.eu/schemas/WFD_PoM_2018/PoM_2018.xsd">
+	<countryCode>BG</countryCode>
+	<euRBDCode>BG1000</euRBDCode>
+	<SubUnits>
+		<surfaceWaterOrGroundwater>Surface water</surfaceWaterOrGroundwater>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.1 - Point - Urban waste water</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PE02 - Load (tonne per year) of nitrogen to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>1367</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PE03 - Load (tonne per year) of phosphorus to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>205</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KS01 - Population equivalent required to be treated by construction or upgrade of wastewater treatment plants to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>87314</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN28 - Number of wastewater treatment works requiring to be constructed or upgraded to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>83</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.2 - Diffuse - Agricultural</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PE01 - Load (tonne per year) of BOD to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PE02 - Load (tonne per year) of nitrogen to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PE03 - Load (tonne per year) of phosphorus to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN11 - Number of farms not covered by advisory services</indicatorGap>
+				<indicatorGapValue2021>1783</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM2 - Reduce nutrient pollution from agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KA02 - Area (km2) of agricultural land required to be covered by measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM12 - Advisory services for agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN09 - Number of farms that need to be covered by advisory services to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1783</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM12 - Advisory services for agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN08 - Number of Farm Surveys required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>3</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.6 - Diffuse - Discharges not connected to sewerage network</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN10 - Number of discharges not connected to sewerage network that are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>11</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>8 - Anthropogenic pressure - Unknown</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PL14 - Length (km) of water bodies where unknown pressures are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>1232.1699209999999</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Length/area of water bodies affected by the measures required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>1232.1699209999999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.5 - Diffuse - Contaminated sites or abandoned industrial sites</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN01 - Number of contaminated sites preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM4 - Remediation of contaminated sites (historical pollution including sediments, groundwater, soil)</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.8 - Diffuse - Mining</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Length (km)/area (km2) of water bodies not achieving objectives because of this pressure</indicatorGapOther>
+				<indicatorGapValue2021>412.33699999999999</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of upgraded storm overflows required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.9 - Diffuse - Aquaculture</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Length (km)/area (km2) of water bodies not achieving objectives because of this pressure</indicatorGapOther>
+				<indicatorGapValue2021>67.174038999999993</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN02 - Number of aquaculture sites/facilities for which measures are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.3 - Point - IED plants</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>4</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN19 - Number of water bodies affected by emissions/ discharges or losses of priority and priority hazardous substances</indicatorGap>
+				<indicatorGapValue2021>1</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM15 - Measures for the phasing-out of emissions, discharges and losses of Priority Hazardous Substances or for the reduction of emissions, discharges and losses of Priority Substances</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN24 - Number of substances requiring restrictions or bans on uses to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>2</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.4 - Point - Non IED plants</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN15 - Number of permits not compatible with the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>9</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of revised permit required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>9 - Anthropogenic pressure - Historical pollution</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PL11 - Length (km) of water bodies where other anthropogenic pressures are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>203.18264600000001</indicatorGapValue2021>
+			</IndicatorGap>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.7 - Point - Mine waters</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN14 - Number of mine water discharges preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>2</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>2</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN16 - Number of mine discharges requiring measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>2</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>3.1 - Abstraction or flow diversion - Agriculture</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PV02 - Volume (million m3 per year) of water abstracted/diverted for agriculture to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>30</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM7 - Improvements in flow regime and/or establishment of ecological flows</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of revised permit required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM8 - Water efficiency, technical measures for irrigation, industry, energy and households</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KP01 - Reduction (%) in water consumption required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM11 - Water pricing policy measures for the implementation of the recovery of cost of water services from agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KA04 - Area (km2) of agricultural land where water pricing policy measures are required to achieve the objectives of Article 9</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM12 - Advisory services for agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN09 - Number of farms that need to be covered by advisory services to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1783</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM12 - Advisory services for agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN01 - Number of advisory services required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1783</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>3.3 - Abstraction or flow diversion - Industry</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PV05 - Volume (million m3 per year) of water abstracted/diverted for industry to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>18</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM7 - Improvements in flow regime and/or establishment of ecological flows</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of revised permit required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>3.5 - Abstraction or flow diversion - Hydropower</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Volume of water abstracted/diverted (million m3) to be reduced to achieve objectives</indicatorGapOther>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>11</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM7 - Improvements in flow regime and/or establishment of ecological flows</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of revised permit required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM10 - Water pricing policy measures for the implementation of the recovery of cost of water services from industry</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN14 - Number of installations for which water pricing policy measures are required to achieve the objectives of Article 9</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>3.6 - Abstraction or flow diversion - Fish farms</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PV03 - Volume (million m3 per year) of water abstracted/diverted for aquaculture to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>29</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM7 - Improvements in flow regime and/or establishment of ecological flows</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of revised permit required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM10 - Water pricing policy measures for the implementation of the recovery of cost of water services from industry</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN14 - Number of installations for which water pricing policy measures are required to achieve the objectives of Article 9</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>4.1.1 - Physical alteration of channel/bed/riparian area/shore - Flood protection</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PL04 - Length (km) of water bodies where hydromorphological alterations for flood protection are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>31</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM6 - Improving hydromorphological conditions of water bodies other than longitudinal continuity</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KL05 - Length (km) of river requiring bed restoration measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM23 - Natural water retention measures</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KA17 - Area (km2) of water bodies required to be restored or reconnected to floodplains to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM23 - Natural water retention measures</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KL10 - Length (km) of water bodies required to be restored or reconnected to floodplains to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>4.2.1 - Dams, barriers and locks - Hydropower</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN04 - Number of dams/ weirs/ barriers and locks associated with hydropower that have conditions not compatible with the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>4</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM5 - Improving longitudinal continuity (e.g. establishing fish passes, demolishing old dams)</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN03 - Number of barriers required to be tackled to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>4</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM5 - Improving longitudinal continuity (e.g. establishing fish passes, demolishing old dams)</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN10 - Number of fish/continuity passes required to be installed to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>4</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>4.2.4 - Dams, barriers and locks - Irrigation</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN06 - Number of dams/ weirs/ barriers and locks associated with irrigation that have conditions not compatible with the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>13</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM5 - Improving longitudinal continuity (e.g. establishing fish passes, demolishing old dams)</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN03 - Number of barriers required to be tackled to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM5 - Improving longitudinal continuity (e.g. establishing fish passes, demolishing old dams)</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN10 - Number of fish/continuity passes required to be installed to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>4.3.2 - Hydrological alteration - Transport</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PL08 - Length (km) of water bodies where hydromorphological alterations for transport purposes are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>681.81600000000003</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM7 - Improvements in flow regime and/or establishment of ecological flows</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Length of rivers (km) affected by the measures required for the achievement of objectives.</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>681.81600000000003</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_67-66-3 - Trichloromethane</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PE05 - Load (tonne per year) of priority substances to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>2</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM15 - Measures for the phasing-out of emissions, discharges and losses of Priority Hazardous Substances or for the reduction of emissions, discharges and losses of Priority Substances</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN24 - Number of substances requiring restrictions or bans on uses to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>2</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7440-02-0 - Nickel and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PE05 - Load (tonne per year) of priority substances to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM15 - Measures for the phasing-out of emissions, discharges and losses of Priority Hazardous Substances or for the reduction of emissions, discharges and losses of Priority Substances</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN24 - Number of substances requiring restrictions or bans on uses to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7440-43-9 - Cadmium and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PE05 - Load (tonne per year) of priority substances to be reduced to achieve objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM15 - Measures for the phasing-out of emissions, discharges and losses of Priority Hazardous Substances or for the reduction of emissions, discharges and losses of Priority Substances</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN24 - Number of substances requiring restrictions or bans on uses to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7429-90-5 - Aluminium and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7440-50-8 - Copper and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7439-96-5 - Manganese and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN21 - Number of water bodies failing EQS</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+	</SubUnits>
+	<SubUnits>
+		<surfaceWaterOrGroundwater>Groundwater</surfaceWaterOrGroundwater>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.1 - Point - Urban waste water</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN10 - Number of discharges not connected to sewerage network that are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>11</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN28 - Number of wastewater treatment works requiring to be constructed or upgraded to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>83</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KS01 - Population equivalent required to be treated by construction or upgrade of wastewater treatment plants to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>87314</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.3 - Point - IED plants</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN16 - Number of point sources preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM15 - Measures for the phasing-out of emissions, discharges and losses of Priority Hazardous Substances or for the reduction of emissions, discharges and losses of Priority Substances</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN24 - Number of substances requiring restrictions or bans on uses to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.4 - Point - Non IED plants</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN16 - Number of point sources preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.5 - Point - Contaminated sites or abandoned industrial sites</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN01 - Number of contaminated sites preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>-9999</indicatorGapValue2021>
+			</IndicatorGap>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Number of water bodies affected</indicatorGapOther>
+				<indicatorGapValue2021>9</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM4 - Remediation of contaminated sites (historical pollution including sediments, groundwater, soil)</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.6 - Point - Waste disposal sites</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN16 - Number of point sources preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>30</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of mines for which measures are required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>1.7 - Point - Mine waters</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN14 - Number of mine water discharges preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of mines for which measures are required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>0</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.10 - Diffuse - Other</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN18 - Number of waste disposal sites preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>7</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Area of water bodies affected by the measures required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>12923</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.2 - Diffuse - Agricultural</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN11 - Number of farms not covered by advisory services</indicatorGap>
+				<indicatorGapValue2021>1783</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM2 - Reduce nutrient pollution from agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KA02 - Area (km2) of agricultural land required to be covered by measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.6 - Diffuse - Discharges not connected to sewerage network</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN10 - Number of discharges not connected to sewerage network that are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>11</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>2.8 - Diffuse - Mining</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PN14 - Number of mine water discharges preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Number of mines for which measures are required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>8 - Anthropogenic pressure - Unknown</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PA16 - Area (km2) of water bodies where unknown pressures are preventing the achievement of objectives</indicatorGap>
+				<indicatorGapValue2021>1089</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KO99 - Other indicator</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorOther>Area of water bodies affected by the measures required to achieve objectives</keyTypeMeasureIndicatorOther>
+				<keyTypeMeasureIndicatorValue2021>10227.198549999999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_14797-55-8 - Nitrate</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Reducing the concentration of the contaminant preventing the achievement of objectives</indicatorGapOther>
+				<indicatorGapValue2021>32.32</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN20 - Number of sources of litter that require control measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM2 - Reduce nutrient pollution from agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN09 - Number of farms that need to be covered by advisory services to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1783</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7440-47-3 - Chromium and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Reducing the concentration of the contaminant preventing the achievement of objectives</indicatorGapOther>
+				<indicatorGapValue2021>3.0899999999999999</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN20 - Number of sources of litter that require control measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7439-96-5 - Manganese and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Reducing the concentration of the contaminant preventing the achievement of objectives</indicatorGapOther>
+				<indicatorGapValue2021>0.14999999999999999</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN20 - Number of sources of litter that require control measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_14798-03-9 - Ammonium</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Reducing the concentration of the contaminant preventing the achievement of objectives</indicatorGapOther>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN20 - Number of sources of litter that require control measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM2 - Reduce nutrient pollution from agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN09 - Number of farms that need to be covered by advisory services to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1783</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_7439-89-6 - Iron and its compounds</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Reducing the concentration of the contaminant preventing the achievement of objectives</indicatorGapOther>
+				<indicatorGapValue2021>0.56000000000000005</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN20 - Number of sources of litter that require control measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM16 - Upgrades or improvements of industrial wastewater treatment plants (including farms).</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN15 - Number of installations where upgrades or improvements are required to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+		<SignificantPressureSubstanceFailing>
+			<significantPressureOrSubstanceFailing>CAS_14265-44-2 - Phosphate</significantPressureOrSubstanceFailing>
+			<IndicatorGap>
+				<indicatorGap>PO99 - Other indicator</indicatorGap>
+				<indicatorGapOther>Reducing the concentration of the contaminant preventing the achievement of objectives</indicatorGapOther>
+				<indicatorGapValue2021>0</indicatorGapValue2021>
+			</IndicatorGap>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM14 - Research, improvement of knowledge base reducing uncertainty</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN20 - Number of sources of litter that require control measures to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM21 - Measures to prevent or control the input of pollution from urban areas, transport and built infrastructure</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN05 - Number of contaminated sites to be remediated or where preventative actions need to be taken to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>-9999</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM2 - Reduce nutrient pollution from agriculture</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN09 - Number of farms that need to be covered by advisory services to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>1783</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+			<KeyTypeMeasureIndicator>
+				<keyTypeMeasure>KTM1 - Construction or upgrades of wastewater treatment plants</keyTypeMeasure>
+				<keyTypeMeasureIndicator>KN06 - Number of discharges required to be connected to sewerage network to achieve objectives</keyTypeMeasureIndicator>
+				<keyTypeMeasureIndicatorValue2021>11</keyTypeMeasureIndicatorValue2021>
+			</KeyTypeMeasureIndicator>
+		</SignificantPressureSubstanceFailing>
+	</SubUnits>
+	<Progress>
+		<rbmpGeneralProgress>	Кратко описание на постигнатия напредък от втория ПУРБ, по-специално относно намаляването на постигнатия натиск и предприетите мерки</rbmpGeneralProgress>
+		<newRegulation>Yes, but not started</newRegulation>
+		<statusImplementationPoM>Some planned measures started</statusImplementationPoM>
+		<obstaclesGovernance>No</obstaclesGovernance>
+		<obstaclesDelays>Yes</obstaclesDelays>
+		<obstaclesLackOfFinance>Yes</obstaclesLackOfFinance>
+		<obstaclesLackOfMechanism>No</obstaclesLackOfMechanism>
+		<obstaclesLackOfMeasures>Yes</obstaclesLackOfMeasures>
+		<obstaclesNotCostEffective>Yes</obstaclesNotCostEffective>
+		<obstaclesExtremeEvents>No</obstaclesExtremeEvents>
+		<obstaclesOther>Проблеми</obstaclesOther>
+		<measuresFromSecondProgrammeReference>
+			<wfd:subject>	Progress_measuresFromSecondProgrammeReference - Опишете с няколко думи предмета на предоставената справка (например методология или информация за основните мерки и т.н.)</wfd:subject>
+			<wfd:documentName>Въведете името на референтния документ, където може да бъде намерена друга подходяща информация.</wfd:documentName>
+			<wfd:bookmark>	Progress_measuresFromSecondProgrammeReference</wfd:bookmark>
+			<wfd:hyperlink>http://www.bd-dunav.org/</wfd:hyperlink>
+		</measuresFromSecondProgrammeReference>
+	</Progress>
+	<Costs>
+		<costOfMeasuresPeriod20152018>2015--2018</costOfMeasuresPeriod20152018>
+		<costOfMeasuresScale20152018>Member State</costOfMeasuresScale20152018>
+		<article113aInvestment20152018>10</article113aInvestment20152018>
+		<article113bl114115Investment20152018>10</article113bl114115Investment20152018>
+		<article113al114115Investment20152018>10</article113al114115Investment20152018>
+		<euFunds20152018>No</euFunds20152018>
+	</Costs>
+	<TargetedQ>
+		<basicMeasuresArt113c>Measures of this type implemented in previous cycle but new measures and/or significant changes planned</basicMeasuresArt113c>
+		<basicMeasuresArt113d>There are safeguard zones but there will be significant changes to them implemented as a result of this RBMP</basicMeasuresArt113d>
+		<basicMeasuresArt113ePermit>Yes, for surface and groundwater</basicMeasuresArt113ePermit>
+		<basicMeasuresArt113eRegister>Yes, for surface and groundwater</basicMeasuresArt113eRegister>
+		<basicMeasuresArt113eThreshold>Small abstractions do not require permits but are all registered</basicMeasuresArt113eThreshold>
+		<basicMeasuresArt113eImpoundment>Yes, there is a concession, authorisation and/or permitting regime to control water impoundment and a register of impoundments</basicMeasuresArt113eImpoundment>
+		<basicMeasuresArt113f>Measures of this type implemented in previous cycle but new measures and/or significant changes planned</basicMeasuresArt113f>
+		<basicMeasuresArt113gPermit>Yes, for surface and groundwater</basicMeasuresArt113gPermit>
+		<basicMeasuresArt113gRegister>Yes, for surface and groundwater</basicMeasuresArt113gRegister>
+		<basicMeasuresArt113gThreshold>Yes, small discharges are exempted from controls</basicMeasuresArt113gThreshold>
+		<basicMeasuresArt113hRules>Yes, but rules apply only in Nitrate Vulnerable Zones.</basicMeasuresArt113hRules>
+		<basicMeasuresArt113hIssues>Nitrates</basicMeasuresArt113hIssues>
+		<basicMeasuresArt113hIssues>Phosphorus</basicMeasuresArt113hIssues>
+		<basicMeasuresArt113hIssues>Organic pollution</basicMeasuresArt113hIssues>
+		<basicMeasuresArt113iPermit>Yes</basicMeasuresArt113iPermit>
+		<basicMeasuresArt113iRiparian>Yes</basicMeasuresArt113iRiparian>
+		<basicMeasuresArt113iRegister>Yes</basicMeasuresArt113iRegister>
+		<basicMeasuresArt113j>Some direct discharges are authorised in accordance with Article 11.3.j</basicMeasuresArt113j>
+		<basicMeasuresArt113k>Yes</basicMeasuresArt113k>
+		<waterReUse>Yes</waterReUse>
+		<waterReUseMeasure>Yes</waterReUseMeasure>
+		<waterReUseMeasureImplemented>Implementation of some measures has started but no measures finished</waterReUseMeasureImplemented>
+		<ecologicalFlow>Partly, ecological flows have been derived for some relevant water bodies but the work is still on-going</ecologicalFlow>
+		<climateChange>Yes</climateChange>
+		<winWinNWRMDroughtsFloods>Yes</winWinNWRMDroughtsFloods>
+		<structuralMeasures>Yes</structuralMeasures>
+		<msfdCoOrdination>Landlocked country</msfdCoOrdination>
+		<msfdAssessment>Landlocked country</msfdAssessment>
+	</TargetedQ>
+	<dcMetadata>
+		<wfd:title>PoM_2018_prefilled_BG1000</wfd:title>
+		<wfd:description>Reporting guidance on "Implementation of planned Programme of Measures" (2018) according to Article 15 (3) of the Water Framework Directive</wfd:description>
+		<wfd:creatorElectronicMailAddress>dunavbd@bddr.org</wfd:creatorElectronicMailAddress>
+		<wfd:creatorOrganisationName>Danube River Basin Directorate</wfd:creatorOrganisationName>
+		<wfd:language>bul</wfd:language>
+		<wfd:license>https://creativecommons.org/licenses/by/4.0/</wfd:license>
+	</dcMetadata>
+</PoM>
